@@ -1,5 +1,5 @@
 {
-    "name": "amphp/rpc",
+    "name": "saphirangel/rpc",
     "description": "Remote procedure calls for PHP based on Amp.",
     "type": "library",
     "require": {
